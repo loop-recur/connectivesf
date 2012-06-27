@@ -61,9 +61,9 @@
   	
 <!--   		<div id="event_bg"></div> -->
   		<h3>Next event:</h3>
-  		<h2>July 21, 2012, 6pm<br>
-  		<span>@ Rocket Science</span></h2>
-  		<div id="location">22 Shotwell Street, San Francisco, CA 94103 (<a href="https://maps.google.com/maps?q=++22+Shotwell+Street,+San+Francisco,+CA&hl=en&sll=52.370216,4.895168&sspn=0.110679,0.308647&t=v&hnear=22+Shotwell+St,+San+Francisco,+California+94103&z=16>map">map</a>)</div>
+  		<h2>July 12, 2012, 6pm<br>
+  		<span>@ WeWork Labs SF</span></h2>
+  		<div id="location">156 2nd St, San Francisco, CA 94105 (<a href="http://goo.gl/maps/PbR5">map</a>)</div>
   		
   		<h5>Request an invite:</h5>
   	
