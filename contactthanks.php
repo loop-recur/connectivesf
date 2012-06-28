@@ -3,32 +3,31 @@
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta HTTP-EQUIV="refresh" CONTENT="2;URL=index.php">
+  <!--   <meta HTTP-EQUIV="refresh" CONTENT="2;URL=index.php"> -->
 
-  <title></title>
-  <meta name="description" content="">
+  <title>Thanks!</title>
+  <meta name="description" content="Thanks for contacting Connective SF">
 
-  <meta name="viewport" content="width=device-width">
-  <link rel="stylesheet"  class="cssfx" href="css/style.css">
+	<meta name="viewport" content="initial-scale = 1,user-scalable=no,maximum-scale=1.0">
 
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+
+	<link rel="stylesheet/less" type="text/css" href="css/style.less">
+	
+	<script src="js/libs/less-1.3.0.min.js" type="text/javascript"></script>
   <script src="js/libs/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
 
-	<div id="bgs">
-		<div id="bg1"></div>
-		<div id="bg2"></div>
-		<div id="bg3"></div>
-		<div id="bg4"></div>
-		<div id="bg5"></div>
-		<div id="bg6"></div>	
-		<div id="bg7"></div>
-	</div>
+<img id="bg" src="img/bg.gif">
 
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  
+
   
   <header>
 	  <h1><img id="logo" src="img/connective_logo1.png" alt="connective_logo1"/></h1>
@@ -36,11 +35,12 @@
   
   <div id="main">
 
-	  <h1>Thanks for requesting an invite! We'll be in touch soon!</h1>
+	  <h1>Thanks for requesting an invite!</h1>
+	  <h2>We'll be in touch soon!</h2>
   	
   </div>
   	
-  <footer class="clearfix">
+  <footer class="thanksfooter clearfix">
 	<span>2012 &#169 Connective San Francisco</span>
   </footer>
 
