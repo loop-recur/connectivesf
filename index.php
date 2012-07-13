@@ -61,7 +61,7 @@
   	
 <!--   		<div id="event_bg"></div> -->
   		<h3>Next event:</h3>
-  		<h2>July 12, 2012, 6 - 8:30pm<br>
+  		<h2>August 30, 2012, 6:30 - 9:00pm<br>
   		<span>@ WeWork Labs SF</span></h2>
   		<div id="location">156 2nd St, San Francisco, CA 94105 (<a href="http://goo.gl/maps/PbR5">map</a>)</div>
   		
